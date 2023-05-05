@@ -1,7 +1,8 @@
+-- Sample code to test Replit & GitHub capabilities
+
 function love.load()
   Message = "Hello world"
   local myTime = os.date("%c")
-  -- local secret = 'This is a local string'
 end
 
 function love.draw()
